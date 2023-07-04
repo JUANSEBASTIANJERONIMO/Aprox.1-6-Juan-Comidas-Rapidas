@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ComidaRapida
+comment1.params=precioproducto\ gastosmateriaprima\ ventauno\ ventados\ ventatres\ ventacuatro\ ventacinco\ ventaseis\ ventasiete
+comment1.target=ComidaRapida(double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment2.params=
+comment2.target=double\ calcularpromedioventas()
+numComments=3
